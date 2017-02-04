@@ -19,7 +19,7 @@ def main():
     # Create the time entry
     fe = fg.add_entry()
     fe.id('https://github.com/hwndu/hwndu-tools/blob/master/rss.xml')
-    fe.title('$")
+    fe.title(' ')
     fe.content('')
     fe.summary(u'It is currently Day 15 (Morning)')
     fe.link(href='https://youtu.be/dQw4w9WgXcQ', rel='alternate')
