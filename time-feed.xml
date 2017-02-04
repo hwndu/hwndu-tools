@@ -1,0 +1,351 @@
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="https://slashdot.org/">
+<title>Slashdot</title>
+<link>https://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
+<dc:date>2017-02-04T09:40:15+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://science.slashdot.org/story/17/02/04/0019211/misophonia-scientists-crack-why-eating-sounds-can-make-people-angry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/17/02/03/2240244/fcc-rescinds-claim-that-att-verizon-violated-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/17/02/03/2024244/lawsuit-claims-apple-forced-users-to-ios-7-by-breaking-facetime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/17/02/03/2041252/google-will-reportedly-remove-google-now-launcher-from-play-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/17/02/03/2118240/zero-day-windows-security-flaw-can-crash-systems-cause-bsods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/17/02/03/2048216/nintendo-halts-wii-u-production-in-anticipation-of-switch-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/17/02/03/2258244/imdb-is-shutting-down-its-long-running-popular-message-boards-after-16-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/17/02/03/2213241/first-screenshots-of-microsofts-windows-10-cloud-os-leak-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/17/02/03/1932212/google-to-force-basic-html-gmail-on-older-chrome-versions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/17/02/03/2058247/apple-to-start-making-iphones-in-india-says-state-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/17/02/03/1418215/google-is-integrating-progressive-web-apps-deeper-into-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/17/02/03/1817240/lg-confirms-5k-mac-monitor-has-issue-when-placed-near-a-router-says-new-batch-to-have-enhanced-shielding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/17/02/03/1752239/the-purpose-of-sleep-to-forget-scientists-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/17/02/03/1829240/cutting-h-1bs-could-mean-more-competition-from-china-and-india-says-godaddy-ceo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/17/02/03/1458246/government-watchdog-says-spacex-falcon-9s-are-prone-to-cracks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="https://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>https://slashdot.org/</link>
+</image>
+<item rdf:about="https://science.slashdot.org/story/17/02/04/0019211/misophonia-scientists-crack-why-eating-sounds-can-make-people-angry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Misophonia: Scientists Crack Why Eating Sounds Can Make People Angry</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/M_THcUZNzHA/misophonia-scientists-crack-why-eating-sounds-can-make-people-angry</link>
+<description>An anonymous reader quotes a report from BBC: Why some people become enraged by sounds such as eating or breathing has been explained by brain scan studies. The condition, misophonia, is far more than simply disliking noises such as nails being scraped down a blackboard. UK scientists have shown some people's brains become hardwired to produce an "excessive" emotional response. Olana developed the condition when she was eight years old. Her trigger sounds include breathing, eating and rustling noises. Scientists, including Olana, at multiple centers in the UK scanned the brains of 20 misophonic people and 22 people without the condition. They were played a range of noises while they were in the MRI machine, including: neutral sounds such as rain; generally unpleasant sounds such as screaming; people's trigger sounds. The results, published in the journal Current Biology, revealed the part of the brain that joins our senses with our emotions -- the anterior insular cortex -- was overly active in misophonia. And it was wired up and connected to other parts of the brain differently in those with misophonia. Dr Sukhbinder Kumar, from Newcastle University, told BBC News: "They are going into overdrive when they hear these sounds, but the activity was specific to the trigger sounds not the other two sounds. The reaction is anger mostly, it's not disgust, the dominating emotion is the anger -- it looks like a normal response, but then it is going into overdrive." There are no treatments, but Olana has developed coping mechanisms such as using ear plugs. It is still not clear how common the disorder is, as there is no clear way of diagnosing it and it was only recently discovered. Ultimately, the researchers hope, understanding the difference in the misophonic brain will lead to new treatments. One idea is that low levels of targeted electricity passed through the skull, which is known to adjust brain function, could help.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Misophonia%3A+Scientists+Crack+Why+Eating+Sounds+Can+Make+People+Angry%3A+http%3A%2F%2Fbit.ly%2F2jNeX6q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F17%2F02%2F04%2F0019211%2Fmisophonia-scientists-crack-why-eating-sounds-can-make-people-angry%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/17/02/04/0019211/misophonia-scientists-crack-why-eating-sounds-can-make-people-angry?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/17/02/04/0019211/misophonia-scientists-crack-why-eating-sounds-can-make-people-angry?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201925&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/M_THcUZNzHA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2017-02-04T07:00:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>nails-on-a-chalkboard</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,34,10,9,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/17/02/04/0019211/misophonia-scientists-crack-why-eating-sounds-can-make-people-angry?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/17/02/03/2240244/fcc-rescinds-claim-that-att-verizon-violated-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FCC Rescinds Claim That AT&amp;amp;T, Verizon Violated Net Neutrality</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8BGPP_DkckE/fcc-rescinds-claim-that-att-verizon-violated-net-neutrality</link>
+<description>jriding writes: The Federal Communications Commission's new Republican leadership has rescinded a determination that ATT and Verizon Wireless violated net neutrality rules with paid data cap exemptions. The FCC also rescinded several other Wheeler-era reports and actions. The FCC released its report on the data cap exemptions (aka "zero-rating") in the final days of Democrat Tom Wheeler's chairmanship. Because new Chairman Ajit Pai opposed the investigation, the FCC has now formally closed the proceeding. The FCC's Wireless Telecommunications Bureau sent letters to ATT, Verizon, and T-Mobile USA notifying the carriers "that the Bureau has closed this inquiry. Any conclusions, preliminary or otherwise, expressed during the course of the inquiry will have no legal or other meaning or effect going forward." The FCC's Wireline Competition Bureau also sent a letter to Comcast closing an inquiry into the company's Stream TV cable service, which does not count against data caps. The FCC issued an order that "sets aside and rescinds" the Wheeler-era report on zero-rating. All "guidance, determinations, and conclusions" from that report are rescinded, and it will have no legal bearing on FCC proceedings going forward, the order said. ATT and Verizon allow their own video services (DirecTV and Go90, respectively) to stream on their mobile networks without counting against customers' data caps, while charging other video providers for the same data cap exemptions. The FCC under Wheeler determined that ATT and Verizon unreasonably interfered with online video providers' ability to compete against the carriers' video services.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FCC+Rescinds+Claim+That+AT%26amp%3BT%2C+Verizon+Violated+Net+Neutrality%3A+http%3A%2F%2Fbit.ly%2F2jMZIKM"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F17%2F02%2F03%2F2240244%2Ffcc-rescinds-claim-that-att-verizon-violated-net-neutrality%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/17/02/03/2240244/fcc-rescinds-claim-that-att-verizon-violated-net-neutrality?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/17/02/03/2240244/fcc-rescinds-claim-that-att-verizon-violated-net-neutrality?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201795&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8BGPP_DkckE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2017-02-04T03:30:00+00:00</dc:date>
+<dc:subject>att</dc:subject>
+<slash:department>back-and-forth</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>94</slash:comments>
+<slash:hit_parade>94,88,60,51,16,9,4</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/17/02/03/2240244/fcc-rescinds-claim-that-att-verizon-violated-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/17/02/03/2024244/lawsuit-claims-apple-forced-users-to-ios-7-by-breaking-facetime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Lawsuit Claims Apple Forced Users To iOS 7 By Breaking FaceTime</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/23-JpFAKsIQ/lawsuit-claims-apple-forced-users-to-ios-7-by-breaking-facetime</link>
+<description>According to Apple Insider, a class-action lawsuit has been filed in California that claims Apple broke FaceTime in iOS 6 to force users to upgrade to iOS 7. The lawsuit says Apple forced users to upgrade so it could avoid payments on a data deal with Akamai. From the report: When FaceTime launched in 2010, Apple included two methods of connecting one iPhone to another. The first, a peer-to-peer technology, transferred audio and video data over a direct connection, while a second "relay method" used third-party servers run by Akamai to shuttle data back and forth. Initially, calls routed through Akamai's relay servers only accounted for only 5 to 10 percent of FaceTime traffic, but usage quickly spiked. On Nov. 7, 2012, a jury found Apple's peer-to-peer FaceTime call technology in infringement of patents owned by VirnetX. Along with a $368 million fine, the ruling meant Apple would have to shift away from peer-to-peer to avoid further infringement. Apple began to incur multi-million dollar monthly charges from Akamai as a result of the change. Testimony from the 2016 VirnetX retrial pegged relay fees at about $50 million between April 2013 and September 2013, rates that according to today's lawsuit were of concern to Apple executives. After eating rising relay service charges for nearly a year, Apple saw a chance to slow down or completely negate the fees in iOS 7. Among other system improvements, the next-generation OS included a method of creating peer-to-peer FaceTime connections without infringing on VirnetX patents. The only problem, according to the lawsuit, was that users continued to operate devices running iOS 6. Citing internal emails and sworn testimony from the VirnetX trial, the lawsuit alleges Apple devised a plan to "break" FaceTime on iOS 6 or earlier by causing a vital digital certificate to prematurely expire. Apple supposedly implemented the "FaceTime Break" on April 16, 2014, then blamed the sudden incompatibility on a bug, the lawsuit claims.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Lawsuit+Claims+Apple+Forced+Users+To+iOS+7+By+Breaking+FaceTime%3A+http%3A%2F%2Fbit.ly%2F2l6bjFG"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F17%2F02%2F03%2F2024244%2Flawsuit-claims-apple-forced-users-to-ios-7-by-breaking-facetime%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/17/02/03/2024244/lawsuit-claims-apple-forced-users-to-ios-7-by-breaking-facetime?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/17/02/03/2024244/lawsuit-claims-apple-forced-users-to-ios-7-by-breaking-facetime?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201529&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/23-JpFAKsIQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2017-02-04T02:05:00+00:00</dc:date>
+<dc:subject>ios</dc:subject>
+<slash:department>inconvenient-truth</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,45,24,17,5,0,0</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/17/02/03/2024244/lawsuit-claims-apple-forced-users-to-ios-7-by-breaking-facetime?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/17/02/03/2041252/google-will-reportedly-remove-google-now-launcher-from-play-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Will Reportedly Remove Google Now Launcher From Play Store</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/HEiquvutWlA/google-will-reportedly-remove-google-now-launcher-from-play-store</link>
+<description>An anonymous reader quotes a report from Android Police: Google currently has two launcher apps in the Play Store; Google Now Launcher and Pixel Launcher. In a few months, there will only be one. According to an email forwarded to us by a tipster, Google has alerted GMS partners of its intention to remove Google Now Launcher from the Play Store in the coming weeks. OEMs that use GNL have options, though. The email (which you can see below) explains that the Search Launcher Services library for OEMs that has been in testing is now available. That's what Sony used to integrate the Google Now panel (now just the Google Feed) into its stock launcher a while back. That means OEMs can slap the Google Now panel on whatever launcher they want. Google plans to remove GNL from the optional GMS package on March 1st, meaning no devices with the launcher pre-installed will be approved after that. Existing devices can continue using GNL, though. It will technically still be updated via the Google app. However, the listing will go away by the end Q1 2017 (i.e. now-ish). That affects people who just installed GNL on their devices from the store. You can keep using it, but don't expect any major improvements.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Will+Reportedly+Remove+Google+Now+Launcher+From+Play+Store%3A+http%3A%2F%2Fbit.ly%2F2jMzRCw"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F17%2F02%2F03%2F2041252%2Fgoogle-will-reportedly-remove-google-now-launcher-from-play-store%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/17/02/03/2041252/google-will-reportedly-remove-google-now-launcher-from-play-store?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/17/02/03/2041252/google-will-reportedly-remove-google-now-launcher-from-play-store?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201573&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/HEiquvutWlA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2017-02-04T01:25:00+00:00</dc:date>
+<dc:subject>android</dc:subject>
+<slash:department>out-with-the-old-in-with-the-new</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>21</slash:comments>
+<slash:hit_parade>21,19,7,5,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/17/02/03/2041252/google-will-reportedly-remove-google-now-launcher-from-play-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/17/02/03/2118240/zero-day-windows-security-flaw-can-crash-systems-cause-bsods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Zero-Day Windows Security Flaw Can Crash Systems, Cause BSODs</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xydy4WYZovg/zero-day-windows-security-flaw-can-crash-systems-cause-bsods</link>
+<description>Orome1 quotes a report from Help Net Security: A zero-day bug affecting Windows 10, 8.1, Windows Server 2012 and 2016 can be exploited to crash a vulnerable system and possibly even to compromise it. It is a memory corruption bug in the handling of SMB traffic that could be easily exploited by forcing a Windows system to connect to a malicious SMB share. Tricking a user to connect to such a server should be an easy feat if clever social engineering is employed. The vulnerability was discovered by a researcher that goes by PythonResponder on Twitter, and who published proof-of-exploit code for it on GitHub on Wednesday. The researcher says that he shared knowledge of the flaw with Microsoft, and claims that "they had a patch ready 3 months ago but decided to push it back." Supposedly, the patch will be released next Tuesday. The PoC exploit has been tested by SANS ISC CTO Johannes Ullrich, and works on a fully patched Windows 10. "To be vulnerable, a client needs to support SMBv3, which was introduced in Windows 8 for clients and Windows 2012 on servers," he noted, and added that "it isn't clear if this is exploitable beyond a denial of service." Until a patch is released, administrators can prevent it from being exploited by blocking outbound SMB connections (TCP ports 139 and 445, UDP ports 137 and 138) from the local network to the WAN, as advised by CERT/CC. "The tweet originally announcing this issue stated that Windows 2012 and 2016 is vulnerable," the researcher said. "I tested it with a fully patched Windows 10, and it got an immediate blue screen of death."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Zero-Day+Windows+Security+Flaw+Can+Crash+Systems%2C+Cause+BSODs%3A+http%3A%2F%2Fbit.ly%2F2jMFSPL"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F17%2F02%2F03%2F2118240%2Fzero-day-windows-security-flaw-can-crash-systems-cause-bsods%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/17/02/03/2118240/zero-day-windows-security-flaw-can-crash-systems-cause-bsods?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/17/02/03/2118240/zero-day-windows-security-flaw-can-crash-systems-cause-bsods?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201649&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/xydy4WYZovg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2017-02-04T00:45:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>counting-down-the-days</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,46,23,19,4,1,0</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/17/02/03/2118240/zero-day-windows-security-flaw-can-crash-systems-cause-bsods?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/17/02/03/2048216/nintendo-halts-wii-u-production-in-anticipation-of-switch-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Nintendo Halts Wii U Production In Anticipation of Switch Launch</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tfBut2r8TeM/nintendo-halts-wii-u-production-in-anticipation-of-switch-launch</link>
+<description>New submitter Shane_Optima writes: The Guardian reports that Nintendo has ceased production of the Wii U after a little more than four years. From the report: "In late January it was announced that Nintendo had ceased production of the Wii U console. The follow-up machine to the hugely successful Wii had sold fewer than 15 million units worldwide since its launch in 2012. PlayStation 4 sold more in a year. Wii sold more than 100m in its lifetime. What happened? How did Nintendo, one of the oldest and most respected companies in the video game industry, get it so wrong? And did anything good come out of the Wii U era? How will the machine be remembered, if at all?" Perhaps it could have something to do with the fact that the Wii U bundle didn't include a Wii remote-type controller, and the much-hyped secondary screen was most commonly used for solo gaming -- the exact opposite of the Wii's emphasis on a social experience and is an area where they have to compete with cell phones, tablets and their very own DS line. Nintendo still seems hellbent on selling a console-tablet hybrid, but at least this time it sounds like an interesting controller will be included.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Nintendo+Halts+Wii+U+Production+In+Anticipation+of+Switch+Launch%3A+http%3A%2F%2Fbit.ly%2F2l1RTpL"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F17%2F02%2F03%2F2048216%2Fnintendo-halts-wii-u-production-in-anticipation-of-switch-launch%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/17/02/03/2048216/nintendo-halts-wii-u-production-in-anticipation-of-switch-launch?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/17/02/03/2048216/nintendo-halts-wii-u-production-in-anticipation-of-switch-launch?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201589&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tfBut2r8TeM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2017-02-04T00:05:00+00:00</dc:date>
+<dc:subject>nintendo</dc:subject>
+<slash:department>collectible-items</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>25</slash:comments>
+<slash:hit_parade>25,25,12,9,2,2,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/17/02/03/2048216/nintendo-halts-wii-u-production-in-anticipation-of-switch-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/17/02/03/2258244/imdb-is-shutting-down-its-long-running-popular-message-boards-after-16-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>IMDb Is Shutting Down Its Long-Running, Popular Message Boards After 16 Years</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FJlyKxcwurw/imdb-is-shutting-down-its-long-running-popular-message-boards-after-16-years</link>
+<description>An anonymous reader quotes a report from Polygon: After 16 years, IMDb's message boards and the ability to privately message other users is shutting down, with many members of the community openly mourning the loss of the section. IMDb, which stands from the Internet Movie Database, is one of the world's biggest databases for film and television. According to the company, there is information on more than 4.1 million titles and 7.7 million personalities available on the site as of January 2017. The message board, which was introduced in 2001, reportedly remains one of the most used services on the website, but despite that, the company is getting ready to shut it down, citing a desire to foster a positive environment and serve its audience the best way it can. "After in-depth discussion and examination, we have concluded that IMDb's message boards are no longer providing a positive, useful experience for the vast majority of our more than 250 million monthly users worldwide," a statement on the site reads. "The decision to retire a long-standing feature was made only after careful consideration and was based on data and traffic. Because IMDb's message boards continue to be utilized by a small but passionate community of IMDb users, we announced our decision to disable our message boards on February 3, 2017 but will leave them open for two additional weeks so that users will have ample time to archive any message board content they'd like to keep for personal use. During this two-week transition period, which concludes on February 19, 2017, IMDb message board users can exchange contact information with any other board users they would like to remain in communication with (since once we shut down the IMDb message boards, users will no longer be able to send personal messages to one another)."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=IMDb+Is+Shutting+Down+Its+Long-Running%2C+Popular+Message+Boards+After+16+Years%3A+http%3A%2F%2Fbit.ly%2F2l6IzN0"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F17%2F02%2F03%2F2258244%2Fimdb-is-shutting-down-its-long-running-popular-message-boards-after-16-years%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/17/02/03/2258244/imdb-is-shutting-down-its-long-running-popular-message-boards-after-16-years?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/17/02/03/2258244/imdb-is-shutting-down-its-long-running-popular-message-boards-after-16-years?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201831&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FJlyKxcwurw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2017-02-03T23:20:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>this-is-why-we-can't-have-nice-things</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>110</slash:comments>
+<slash:hit_parade>110,107,68,59,19,10,8</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/17/02/03/2258244/imdb-is-shutting-down-its-long-running-popular-message-boards-after-16-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/17/02/03/2213241/first-screenshots-of-microsofts-windows-10-cloud-os-leak-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>First Screenshots of Microsoft's Windows 10 Cloud OS Leak Online</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xQJLAQLIXzA/first-screenshots-of-microsofts-windows-10-cloud-os-leak-online</link>
+<description>The first alleged screenshots of Microsoft's Windows 10 Cloud operating system have leaked, courtesy of Windows Blog Italia. "The screenshots seem to show a coming version of the operating system that is locked down in a way similar to the way Microsoft locked down Windows RT and, before that the Windows 8.1 with Bing version of Windows," reports ZDNet. From the report: According to Windows Blog Italia, which said they've had a chance to test the current version of Windows 10 Cloud, the product can run Windows Store apps only. The site noted that Windows Store apps built using Microsoft's "Centennial" Desktop bridge, which enables developers to move their Win32 apps to the Windows Store, work on the version of Windows 10 Cloud to which they have access. UWP apps and Windows Store apps have not been synonymous terms. But the important point here is Windows Cloud will be locked down so as to prevent users from installing apps that are not in the Windows 10 Store, which can be seen as a plus from a security and manageability standpoint, but a minus given the less-than-robust collection of UWP/Store apps available for Windows 10. Microsoft is believed to be planning to position Windows 10 Cloud, at least in part, as an alternative to Chrome OS and Chromebooks.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=First+Screenshots+of+Microsoft's+Windows+10+Cloud+OS+Leak+Online%3A+http%3A%2F%2Fbit.ly%2F2jHThxD"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F17%2F02%2F03%2F2213241%2Ffirst-screenshots-of-microsofts-windows-10-cloud-os-leak-online%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/17/02/03/2213241/first-screenshots-of-microsofts-windows-10-cloud-os-leak-online?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/17/02/03/2213241/first-screenshots-of-microsofts-windows-10-cloud-os-leak-online?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201761&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/xQJLAQLIXzA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2017-02-03T22:40:00+00:00</dc:date>
+<dc:subject>os</dc:subject>
+<slash:department>leaks-and-rumors</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>63</slash:comments>
+<slash:hit_parade>63,63,35,33,6,4,2</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/17/02/03/2213241/first-screenshots-of-microsofts-windows-10-cloud-os-leak-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/17/02/03/1932212/google-to-force-basic-html-gmail-on-older-chrome-versions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google To Force Basic HTML Gmail On Older Chrome Versions</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4IhSWs_4oTg/google-to-force-basic-html-gmail-on-older-chrome-versions</link>
+<description>Earlier this week, Google quietly announced that Gmail will only be partially supported on older versions of Chrome browser soon. From a report: Users of Chrome version 53 and older editions of the browser could start being redirected to the basic HTML version of Gmail as early as December, the company said in a blog post. Starting next week, users who will be affected by the change will start seeing a banner at the top of Gmail telling them to upgrade to an up-to-date version of Google's browser. The affected browser versions include Chrome v49, the last version of the software that supports XP and Vista. While Microsoft officially ended support for XP more than two and a half years ago, Gmail has continued to work with it. Vista Service Pack 2 will reach the end of its extended support period on April 11.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+To+Force+Basic+HTML+Gmail+On+Older+Chrome+Versions%3A+http%3A%2F%2Fbit.ly%2F2l19U7F"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F17%2F02%2F03%2F1932212%2Fgoogle-to-force-basic-html-gmail-on-older-chrome-versions%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/17/02/03/1932212/google-to-force-basic-html-gmail-on-older-chrome-versions?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/17/02/03/1932212/google-to-force-basic-html-gmail-on-older-chrome-versions?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201425&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4IhSWs_4oTg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2017-02-03T22:00:00+00:00</dc:date>
+<dc:subject>chrome</dc:subject>
+<slash:department>shape-of-things-to-come</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>56</slash:comments>
+<slash:hit_parade>56,54,26,21,6,2,2</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/17/02/03/1932212/google-to-force-basic-html-gmail-on-older-chrome-versions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/17/02/03/2058247/apple-to-start-making-iphones-in-india-says-state-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple To Start Making iPhones In India, Says State Government</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/bdX1yCdLQ9k/apple-to-start-making-iphones-in-india-says-state-government</link>
+<description>vasanth quotes a report from BBC: Apple is to start making iPhones in the southern Indian state of Karnataka, the state's government has said. Ministers said Apple would start an initial manufacturing operation in the state, whose capital is the tech hub Bangalore, in April. The tech giant has a 2% share of India's mobile phone market, well behind South Korean rival Samsung. Apple has yet to officially confirm the plan, saying only that it is keen to "invest significantly" in India. But Priyank Kharge, minister of information technology and biotechnology in Karnataka, told the AFP news agency: "We have an understanding with Apple and we expect them to start manufacturing in Karnataka by the end of April." Reports said the plant is being set up by Taiwanese manufacturing company Wistron Corp. Apple has held a series of meetings with government representatives at both state and national level and is understood to be pressing for concessions before going ahead with such a move. Apple is currently unable to set up its own branded stores in India, which has a raft of rules to curb the activities of foreign companies. For it to be able to sell direct to customers in India, Apple would have to source 30% of the components of its products locally. Priyank Kharge, IT minister for the Indian state of Karnataka, said Thursday on Twitter: "Apple's intentions to make iPhones in Bengaluru will foster cutting-edge technology ecosystem [and] supply chain development in the state."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+To+Start+Making+iPhones+In+India%2C+Says+State+Government%3A+http%3A%2F%2Fbit.ly%2F2jMjO7K"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F17%2F02%2F03%2F2058247%2Fapple-to-start-making-iphones-in-india-says-state-government%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/17/02/03/2058247/apple-to-start-making-iphones-in-india-says-state-government?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/17/02/03/2058247/apple-to-start-making-iphones-in-india-says-state-government?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201611&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/bdX1yCdLQ9k" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2017-02-03T21:20:00+00:00</dc:date>
+<dc:subject>iphone</dc:subject>
+<slash:department>locally-sourced</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,43,16,12,3,1,1</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/17/02/03/2058247/apple-to-start-making-iphones-in-india-says-state-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/17/02/03/1418215/google-is-integrating-progressive-web-apps-deeper-into-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Is Integrating Progressive Web Apps Deeper Into Android</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tvmvExy9xgQ/google-is-integrating-progressive-web-apps-deeper-into-android</link>
+<description>Yaron Friedman, a software engineer at Google, writes on Chromium blog: In 2015, we added a new feature to Chrome for Android that allows developers to prompt users to add their site to the Home screen for fast and convenient access. That feature uses an Android shortcut, which means that web apps don't show up throughout Android in the same way as installed native apps. In the next few weeks we'll be rolling out a new version of this experience in Chrome beta. With this new version, once a user adds a Progressive Web App to their Home screen, Chrome will integrate it into Android in a much deeper way than before. For example, Progressive Web Apps will now appear in the app drawer section of the launcher and in Android Settings, and will be able to receive incoming intents from other apps. Long presses on their notifications will also reveal the normal Android notification management controls rather than the notification management controls for Chrome.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Is+Integrating+Progressive+Web+Apps+Deeper+Into+Android%3A+http%3A%2F%2Fbit.ly%2F2jL3d4j"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F17%2F02%2F03%2F1418215%2Fgoogle-is-integrating-progressive-web-apps-deeper-into-android%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/17/02/03/1418215/google-is-integrating-progressive-web-apps-deeper-into-android?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/17/02/03/1418215/google-is-integrating-progressive-web-apps-deeper-into-android?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10200409&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tvmvExy9xgQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2017-02-03T20:40:00+00:00</dc:date>
+<dc:subject>android</dc:subject>
+<slash:department>digging-deeper</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>43</slash:comments>
+<slash:hit_parade>43,39,23,23,2,2,2</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/17/02/03/1418215/google-is-integrating-progressive-web-apps-deeper-into-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/17/02/03/1817240/lg-confirms-5k-mac-monitor-has-issue-when-placed-near-a-router-says-new-batch-to-have-enhanced-shielding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>LG Confirms 5K Mac Monitor Has Issue When Placed Near a Router, Says New Batch To Have Enhanced Shielding</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/vsVJsu37nHE/lg-confirms-5k-mac-monitor-has-issue-when-placed-near-a-router-says-new-batch-to-have-enhanced-shielding</link>
+<description>Late last month, we learned that LG's UltraFine 5K Display, which was designed in part by Apple to work with the new MacBook Pro and as a replacement for the Thunderbolt Display, would flicker, disconnect, or freeze computers if placed within two meters of a router. The company has acknowledged the issue, and says it will add enhanced shielding to its 5K monitors to prevent interferences with nearby wireless routers in the upcoming batch. From a report: "LG apologizes for this inconvenience and is committed to delivering the best quality products possible, so all LG UltraFine 27-inch 5K displays manufactured after February 2017 will be fitted with enhanced shielding," the company said in an email. Existing models will be able to be retrofitted with the enhanced shielding, which will allow the monitor to be placed near a router.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=LG+Confirms+5K+Mac+Monitor+Has+Issue+When+Placed+Near+a+Router%2C+Says+New+Batch+To+Have+Enhanced+Shielding%3A+http%3A%2F%2Fbit.ly%2F2jLQA9i"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F17%2F02%2F03%2F1817240%2Flg-confirms-5k-mac-monitor-has-issue-when-placed-near-a-router-says-new-batch-to-have-enhanced-shielding%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/17/02/03/1817240/lg-confirms-5k-mac-monitor-has-issue-when-placed-near-a-router-says-new-batch-to-have-enhanced-shielding?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/17/02/03/1817240/lg-confirms-5k-mac-monitor-has-issue-when-placed-near-a-router-says-new-batch-to-have-enhanced-shielding?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201195&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/vsVJsu37nHE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2017-02-03T20:00:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>better-protection</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>57</slash:comments>
+<slash:hit_parade>57,56,37,34,5,1,0</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/17/02/03/1817240/lg-confirms-5k-mac-monitor-has-issue-when-placed-near-a-router-says-new-batch-to-have-enhanced-shielding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/17/02/03/1752239/the-purpose-of-sleep-to-forget-scientists-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Purpose of Sleep? To Forget, Scientists Say</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gT3rIsLMHJg/the-purpose-of-sleep-to-forget-scientists-say</link>
+<description>Over the years, scientists have come up with a lot of ideas about why we sleep. From a report on NYTimes: Some have argued that it's a way to save energy. Others have suggested that slumber provides an opportunity to clear away the brain's cellular waste. A pair of papers published on Thursday in the journal Science offer evidence for another notion: We sleep to forget some of the things we learn each day (Editor's note: the link could be paywalled; alternate source). In order to learn, we have to grow connections, or synapses, between the neurons in our brains. These connections enable neurons to send signals to one another quickly and efficiently. We store new memories in these networks.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Purpose+of+Sleep%3F+To+Forget%2C+Scientists+Say%3A+http%3A%2F%2Fbit.ly%2F2jGQDIn"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F17%2F02%2F03%2F1752239%2Fthe-purpose-of-sleep-to-forget-scientists-say%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/17/02/03/1752239/the-purpose-of-sleep-to-forget-scientists-say?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/17/02/03/1752239/the-purpose-of-sleep-to-forget-scientists-say?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201057&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/gT3rIsLMHJg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2017-02-03T19:20:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>puzzling-questions</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>122</slash:comments>
+<slash:hit_parade>122,118,71,64,17,8,4</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/17/02/03/1752239/the-purpose-of-sleep-to-forget-scientists-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/17/02/03/1829240/cutting-h-1bs-could-mean-more-competition-from-china-and-india-says-godaddy-ceo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Cutting H-1Bs Could Mean More Competition From China and India, Says GoDaddy CEO</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/S1FxU0l9Nd8/cutting-h-1bs-could-mean-more-competition-from-china-and-india-says-godaddy-ceo</link>
+<description>Silicon Valley companies continue to express their concerns about the restrictions on H-1B visa program. The H-1B visa program -- which enables U.S. companies to hire foreign workers -- has become a political lightning rod but remains essential for American companies to hire the technical talent they need to compete on a global scale, said GoDaddy CEO Blake Irving. From his interview on CNBC: "We do not produce enough technically qualified candidates in this country," he said. "You can't take an 18-month training program and produce a machine-learning scientist." Irving was particularly concerned about overseas competition. The American university system is good at training foreign workers for tech jobs, and it is essential that the U.S. government allows them to stay in the country to fulfill U.S. jobs, he said. Otherwise, we train workers from countries like China and India and then send them back to those countries to set up tech ecosystems that compete with Silicon Valley.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Cutting+H-1Bs+Could+Mean+More+Competition+From+China+and+India%2C+Says+GoDaddy+CEO%3A+http%3A%2F%2Fbit.ly%2F2l5zrIS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F17%2F02%2F03%2F1829240%2Fcutting-h-1bs-could-mean-more-competition-from-china-and-india-says-godaddy-ceo%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/17/02/03/1829240/cutting-h-1bs-could-mean-more-competition-from-china-and-india-says-godaddy-ceo?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/17/02/03/1829240/cutting-h-1bs-could-mean-more-competition-from-china-and-india-says-godaddy-ceo?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10201229&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/S1FxU0l9Nd8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2017-02-03T18:40:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>different-perspective</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>540</slash:comments>
+<slash:hit_parade>540,534,309,276,71,43,33</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/17/02/03/1829240/cutting-h-1bs-could-mean-more-competition-from-china-and-india-says-godaddy-ceo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/17/02/03/1458246/government-watchdog-says-spacex-falcon-9s-are-prone-to-cracks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Government Watchdog Says SpaceX Falcon 9s Are Prone To Cracks</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/I4PD7JK0fZI/government-watchdog-says-spacex-falcon-9s-are-prone-to-cracks</link>
+<description>An anonymous reader shares an Engadget article: SpaceX's Falcon 9 rockets apparently have a serious issue that could delay the company's manned missions. According to the Wall Street Journal, the Government Accountability Office investigated both Boeing and SpaceX -- the corporations that won NASA's space taxi contracts -- and found that Falcon 9's turbine blades suffer from persistent cracks. GAO's preliminary report says these turboblades' tendency to crack is a "major threat to rocket safety," since they pump fuel into Falcon 9's rocket engines. NASA's acting administrator Robert Lightfoot told the WSJ that government officials have known about the issue for months or even years. The agency even told SpaceX that the cracks are too much risk for manned flights. A spokesperson said SpaceX has "qualified [its] engines to be robust" to cracks, but it's now "modifying the design to avoid them altogether."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Government+Watchdog+Says+SpaceX+Falcon+9s+Are+Prone+To+Cracks%3A+http%3A%2F%2Fbit.ly%2F2jLwk7N"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F17%2F02%2F03%2F1458246%2Fgovernment-watchdog-says-spacex-falcon-9s-are-prone-to-cracks%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/17/02/03/1458246/government-watchdog-says-spacex-falcon-9s-are-prone-to-cracks?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/17/02/03/1458246/government-watchdog-says-spacex-falcon-9s-are-prone-to-cracks?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=10200535&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&llt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/I4PD7JK0fZI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2017-02-03T18:00:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>need-for-slowing-down</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>126</slash:comments>
+<slash:hit_parade>126,122,70,62,23,9,6</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/17/02/03/1458246/government-watchdog-says-spacex-falcon-9s-are-prone-to-cracks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="https://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>https://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
