@@ -16,13 +16,20 @@ def main():
         parsed = {}
         parsed['id'] = item['asset_id']
         parsed['original_duration'] = item['original_duration']
-        parsed['url'] = item['secure_progressive_url_hd']
-        parsed['streamed_at'] = item['streamed_at']
         parsed['thumbnail'] = item['thumbnail_url']
+        parsed['streamed_at'] = item['streamed_at']
+        if 'secure_progessive_url_hd' in item:
+            parsed['url'] = item['secure_progressive_url_hd']
+        elif 'progressive_url_hd' in item:
+            parsed['url'] = item['progressive_url_hd']
+        else:
+            continue
         parsed_list.append(parsed)
     database = {'store': parsed_list}
 
-    existing_database = json.load(file("database.json"))
+    sfile = file("database.json")
+    existing_database = json.load(sfile)
+    sfile.close()
     existing_id_list = []
     for i in existing_database['store']:
         existing_id_list.append(i['id'])
@@ -36,7 +43,9 @@ def main():
     for i in new_list:
         print "%s %s %s" % (i['id'], i['url'], i['thumbnail'])
 
-    file("database.json", 'w').write(json.dumps(existing_database))
+    dfile = file("database.json", 'w')
+    dfile.write(json.dumps(existing_database))
+    dfile.close()
 
 if __name__ == "__main__":
     main()
