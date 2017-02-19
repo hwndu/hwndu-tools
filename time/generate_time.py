@@ -6,8 +6,8 @@ def get_milli():
     m = int((datetime.datetime.utcnow() - datetime.datetime(1970, 1, 1)).total_seconds() * 1000)
     return float(m)
 
-def generate_time():
-    delta = (get_milli()-1484902680000.0)/86400000.0
+def generate_time(t):
+    delta = (get_milli()-t)/86400000.0
     day = math.floor(delta)
     period = ""
     pointdelta = delta - day
@@ -38,9 +38,19 @@ def main():
     fe.id('https://github.com/hwndu/hwndu-tools/blob/master/rss.xml')
     fe.title('There is a new day when the clock hits 3:58 AM (ET).')
     fe.content('')
-    fe.summary(generate_time())
+    fe.summary(generate_time(1484902680000.0))
     fe.link(href='https://youtu.be/sZJDYlxkM-c', rel='alternate')
     fe.author(name='Hwndindu', email='hwndu@fuckoff.org')
+
+    # Create the time entry 2
+    fe = fg.add_entry()
+    fe.id('https://github.com/hwndu/hwndu-tools/blob/master/rss.xml')
+    fe.title('There is a new day when the clock hits 3:58 AM (ET).')
+    fe.content('')
+    fe.summary(generate_time(1487062680000.0))
+    fe.link(href='https://youtu.be/sZJDYlxkM-c', rel='alternate')
+    fe.author(name='Hwndindu', email='hwndu@fuckoff.org')
+
 
     # Write the feed to file
     fg.rss_file('rss.xml')
