@@ -45,9 +45,9 @@ def main():
     # Create the time entry 2
     fe = fg.add_entry()
     fe.id('https://github.com/hwndu/hwndu-tools/blob/master/rss.xml')
-    fe.title('There is a new day when the clock hits 3:58 AM (ET).')
+    fe.title('There is a new day when the clock hits 3:58 AM (MST).')
     fe.content('')
-    fe.summary(generate_time(1487321880000.0))
+    fe.summary(generate_time(1487314680000.0))
     fe.link(href='https://youtu.be/sZJDYlxkM-c', rel='alternate')
     fe.author(name='Hwndindu', email='hwndu@fuckoff.org')
 
